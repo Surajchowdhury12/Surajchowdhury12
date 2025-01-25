@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm **Suraj Chowdhury**, a passionate Full Stack Developer with a strong focus on building innovative and user-friendly web applications.<br>
 
+![Alt text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGV3OTg0cjd3emZ3b3U2MnFiNnNvbmw0dmhwNWNqb2hmYzQ1cHhybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U6RHMC65ByrOXIRybJ/giphy.gi)
+
 🔭 I’m currently working on building and improving my personal projects.<br>
 🌱 I’m constantly learning new technologies and frameworks.<br>
 👯 I’m looking to collaborate on exciting projects that push my boundaries and help others.<br>
